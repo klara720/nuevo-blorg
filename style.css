@@ -1,0 +1,246 @@
+body{
+margin: center;
+
+}
+
+.cuadro{
+   background-color: hsl(356, 100%, 66%);
+    background-image: url(bg-pattern-intro.svg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: -150% 65%;
+border-radius: 0 0 0 60px;
+height: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+}
+
+.titulo{ 
+    color: black;
+    font-size: 30px;
+    margin-top: 30%;
+margin-left: 200%;
+
+
+
+}
+.product{
+    
+    background-color: hsl(356, 100%, 66%);
+    
+    margin: center;
+margin-top: -2.5%;
+    margin-left: 7%;
+    decoration: ;
+    border-radius: 2%;
+    border: none;
+
+ 
+}
+
+.login{ background-color:hsl(356, 100%, 66%) ;
+    color: white;
+    margin: center;
+margin-top: -2%;
+    margin-left: 55%;
+    border: none;
+}
+.class{
+    color:hsl(356, 100%, 66%) ;
+background-color: white;
+border:none;
+font-size: 20px;
+border-radius: 15px;
+
+}
+.subtitulo{
+    margin: center;
+margin-top: 10%;
+    margin-left:40%;
+    color: white;
+}
+.h3{
+    margin: center;
+margin-top: 0%;
+    margin-left: 29%;
+    color: white;
+    font-size: px;
+}
+.start{
+    background-color:white;
+margin-top: 5%;
+    margin-left: 40%;
+    border: none;
+    font-size: 20px;
+    border-radius: 15px;
+    border-color: white;
+} 
+.learn{
+
+background-color:hsl(356, 100%, 66%) ;
+font-size: 20px;
+border-radius: 20px;
+border-color: white;
+
+}
+
+.h1{
+    font-size: 20px;
+margin-left: 30%;
+margin-top: 10%;
+margin: center;
+
+}
+
+.le{
+margin: center;
+margin-left: 60%;
+
+}
+
+.h2{
+    margin-top: -25%;
+margin-left: 2%;
+margin: center;
+font-size: 17px;
+}
+
+.ogr{
+
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+}
+.robust{
+    margin-left: 2%;
+    margin: center;
+    font-size: 17px;
+
+}
+.flexible{
+    margin-left: 2%;
+    margin-inline-start: 2%;
+    margin: center;
+    font-size: 15px;
+
+}
+.cuadro2{
+    
+background-image: url(bg-pattern-circles.svg);
+margin-top: 5%;
+background-repeat: no-repeat;
+background-color:  hsl(208, 49%, 24%);
+border-radius:0 0 0 60px;
+border-top-right-radius: 60px;
+margin: center;
+padding:9%;
+}
+.re{
+    margin-top: -15%;
+margin:center;
+}
+.state{
+color: white;
+margin-left: 50%;
+font-size: 17px;
+margin: center;
+margin-top: -35%;
+
+}
+.with{
+color: white;
+margin-left: 50% ;
+font-size: 15px;
+margin: center;
+ma%;
+
+}
+
+.ne{
+margin: center;
+margin-top: 10%;
+
+
+}
+.free{
+margin-top: -25%;
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+
+.is{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.powerful{
+    margin-left: 50%;
+    margin: center;
+    font-size: 17px;
+
+
+}
+
+.batteries{
+
+    margin-left: 50%;
+    margin-inline-start: 50%;
+    margin: center;
+    font-size: 15px;
+
+}
+
+.cuadro3{
+margin-top: 5%;
+background-color:  hsl(240, 10%, 16%);
+padding:3%;
+margin: center;
+border-top-right-radius: 60px;
+    
+}
+
+.blo{
+    margin-top: 1%;
+    color: white;
+font-size: 30px;
+margin-left: 2%;
+margin: center;
+
+}
+.product2{
+
+margin-top: -5%;
+    color: white;
+margin-left: 20%;
+margin: center;
+
+}
+
+.company2{
+    color: white;
+    margin-left: 50%;
+    margin-top: -18%;
+    margin: center;
+
+}
+.connect2{
+
+    color: white;
+    margin-left: 80%;
+    margin-top: -15%;
+
+margin: center;
+}
+
